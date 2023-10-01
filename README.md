@@ -7,3 +7,7 @@ Our website will charge a fee depending on the % cost of machinery and the time 
 
 Designing the website by integrating the backend and frontend was a major challenge as it was all new to us. Another challenge we faced was the CSS portion as it was very difficult to align the elements and put them where we needed them. The last challenge we faced was integrating Roboflow into our project. We overcame these difficulties by researching and working with each other, assigning each team member to work on a different part of the problem. When we ran into a roadblock, we switched roles to get a refresher.
 
+#**Build**
+run "npm install"
+followed by 'npm start'
+
